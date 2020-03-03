@@ -5,5 +5,6 @@
 ```
 git clone https://github.com/charkala/react-redux-starter.git
 cd react-redux-starter
-npm install
+yarn install
+yarn start
 ```
