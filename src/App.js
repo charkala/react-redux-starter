@@ -1,15 +1,6 @@
-import React from 'react'
-import {
-  BrowserRouter,
-  Route,
-  Switch,
-} from 'react-router-dom'
-import {
-  Navbar,
-  Main,
-  Page,
-  NotFound,
-} from './components'
+import React from 'react';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { Navbar, Main, Page, NotFound } from './components';
 
 function App() {
   return (
@@ -23,7 +14,7 @@ function App() {
         </Switch>
       </div>
     </BrowserRouter>
-  )
+  );
 }
 
-export default App
+export default App;

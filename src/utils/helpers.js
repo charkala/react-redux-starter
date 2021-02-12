@@ -1,1 +1,1 @@
-export const helper = (param) => param
+export const helper = (param) => param;
